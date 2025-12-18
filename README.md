@@ -40,7 +40,7 @@ They are designed to teach concepts — not to be production-ready.
 For **plug & play, AI-powered, production-ready workflows**, check out:
 
 👉 AI-Powered n8n Automation Starter Pack  
-👉 YOUR GUMROAD LINK
+👉 https://mustafae.gumroad.com/l/n8n-ai-pack
 
 Includes:
 - Error handling & retries
