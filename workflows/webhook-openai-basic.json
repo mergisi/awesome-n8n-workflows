@@ -1,0 +1,14 @@
+{
+  "name": "Webhook to OpenAI (Basic Demo)",
+  "nodes": [
+    {
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook"
+    },
+    {
+      "name": "OpenAI",
+      "type": "n8n-nodes-base.openAi"
+    }
+  ],
+  "connections": {}
+}

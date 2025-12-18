@@ -1,0 +1,14 @@
+{
+  "name": "Stripe to Notion (Basic Demo)",
+  "nodes": [
+    {
+      "name": "Stripe Trigger",
+      "type": "n8n-nodes-base.stripeTrigger"
+    },
+    {
+      "name": "Notion",
+      "type": "n8n-nodes-base.notion"
+    }
+  ],
+  "connections": {}
+}

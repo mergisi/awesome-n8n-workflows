@@ -1,0 +1,14 @@
+{
+  "name": "RSS to Social (Basic Demo)",
+  "nodes": [
+    {
+      "name": "RSS Feed Read",
+      "type": "n8n-nodes-base.rssFeedRead"
+    },
+    {
+      "name": "HTTP Request",
+      "type": "n8n-nodes-base.httpRequest"
+    }
+  ],
+  "connections": {}
+}
